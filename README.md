@@ -1,1 +1,1 @@
-# Javscript_journey
+# frontend_journey
